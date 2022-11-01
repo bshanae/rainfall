@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/38101359/how-does-elf-loader-knows-the-address-of-stderr-and-stdout
